@@ -1,12 +1,34 @@
 # About
 
+Mohammad Karam Daaboul is a dedicated and experienced computer scientist specializing in machine learning and control theory. With a robust academic background and hands-on experience in research and development, he focuses on creating adaptable and safe reinforcement learning solutions. Currently engaged as a Research Scientist at Karlsruhe Institute of Technology, Mohammad continues to push the boundaries of AI in enhancing machine learning techniques for practical applications.
+
 ## Experience
-1. **Data Science Lead,** REA Group, May 2022 – Present 
-2. **Machine Learning Engineer,** Weights and Biases, Mar 2021 – May 2022
-3. **Applied AI Scientist,** Harrison AI, Nov 2020 – Mar 2021
-4. **Data Scientist,** CoreLogic Australia, Mar 2019 – Nov 2020 
+
+1. **Research Scientist,** Karlsruhe Institute of Technology (KIT), Oct 2018 – Present
+   - Engaged in advanced research on machine learning and reinforcement learning techniques to innovate in the field of AI.
+2. **Research Assistant (Internship),** Forschungszentrum Informatik (FZI), Karlsruhe, Germany, Sep 2017 – Oct 2018
+   - Focused on developing tracking solutions to enhance vehicle navigation, improving safety and efficiency in autonomous driving systems.
+
+## Academic Roles
+
+1. **Lecturer, ML1 and ML2 Courses,** Karlsruhe Institute of Technology, 2019 – 2023
+   - Conducted courses on Machine Learning:
+     - [Machine Learning 1 (ML1)](https://www.kcist.kit.edu/deutsch/775_1154.php): Introduction to machine learning principles and applications.
+     - [Machine Learning 2 (ML2)](https://www.aifb.kit.edu/web/Lehre/Vorlesung_Maschinelles_Lernen_2_%E2%80%93_Fortgeschrittene_Verfahren): Advanced techniques in machine learning.
+2. **Coordinator, Internship Program and Kognitive Automobile and Robotics Seminars,** Karlsruhe Institute of Technology, 2019 – 2024
+   - Organized and supervised various internship programs, providing hands-on experience in robotics and AI.
+   - Directed seminars focusing on cognitive automobiles and robotics, guiding students through comprehensive projects and research:
+     - [Kognitive Automobile Seminar](https://www.kcist.kit.edu/deutsch/775_1166.php)
+     - [Projektpraktikum Kognitive Automobile](https://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Kognitive_Automobile)
 
 ## Education
-1. **Master of Technology - MTech,** Information Technology, Charles Sturt University
-2. **Bachelor of Technology - BTech,** Electrical, Electronics and Communications Engineering, Maharaja Surajmal Institute of Technology
+
+1. **PhD in Computer Science,** Karlsruhe Institute of Technology (KIT), Oct 2018 – Present
+   - Research focus on developing safe and adaptable reinforcement learning solutions.
+2. **Master of Science in Mechatronics,** University of Kassel, Germany, Oct 2014 – Apr 2017
+   - Specialized in Control Theory.
+3. **Bachelor of Science in Mechatronics,** Tishreen University, Latakia, Syria, Sep 2007 – Jan 2012
+   - Graduated with a strong foundation in the integration of mechanical systems and electronic control.
+4. **German Language Examination for University Admission (DSH),** Language Center, University of Kassel, Germany, Oct 2013 – Sep 2014
+   - Successfully completed the language proficiency exam required for university admission in Germany.
 
