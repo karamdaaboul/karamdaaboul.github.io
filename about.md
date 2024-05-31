@@ -1,7 +1,5 @@
 # About
 
-Mohammad Karam Daaboul is a dedicated and experienced computer scientist specializing in machine learning and control theory. With a robust academic background and hands-on experience in research and development, he focuses on creating adaptable and safe reinforcement learning solutions. Currently engaged as a Research Scientist at Karlsruhe Institute of Technology, Mohammad continues to push the boundaries of AI in enhancing machine learning techniques for practical applications.
-
 ## Experience
 
 1. **Research Scientist,** Karlsruhe Institute of Technology (KIT), Oct 2018 – Present
