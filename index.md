@@ -14,20 +14,12 @@ title: "Welcome to My Website"
 
 
 ## Featured Content
-- [Seminar Overview](/posts/2024-06-01-seminar)
-- [Group Work Overview](/posts/2024-06-01-praktikum)
+- [Seminar Overview](/posts/2024-06-01-seminar) (Under Progress)
+- [Group Work Overview](/posts/2024-06-01-praktikum) (Under Progress)
+- [Research Work Overview](/posts/2024-06-01-research) (Under Progress)
+- [Softwares Overview](/posts/2024-06-01-softwares) (Under Progress)
 - [About Me](/about)
 
-<div class="featured-content">
-    <h2>Featured Content</h2>
-    <ul>
-        <li><a href="/posts/2024-06-01-seminar">Seminar Overview</a> (Under Progress)</li>
-        <li><a href="/posts/2024-06-01-praktikum">Group Work Overview</a> (Under Progress)</li>
-        <li><a href="/posts/2024-06-01-research">Research Work Overview</a> (Under Progress)</li>
-        <li><a href="/posts/2024-06-01-softwares">Softwares Overview</a> (Under Progress)</li>
-        <li><a href="/about">About Me</a> </li>
-    </ul>
-</div>
 
 ## Contact
 Reach out to me at [daaboul@kit.edu](mailto:daaboul@kit.edu) for collaborations and inquiries.
