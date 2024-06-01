@@ -3,6 +3,8 @@ layout: home
 title: "Welcome to My Website"
 ---
 
+<img src="/assets/IMG_1.JPEG" alt="Karam at work" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #ccc;">
+
 I'm Karam, a PhD candidate at the Karlsruhe Institute of Technology in Germany. My vision is driven by the idea of using robotics to help humans tackle monumental challenges. In the wake of climate-related disasters like the floods in Germany’s Ahr Valley, and geological disasters such as the recent devastating earthquakes in Turkey and Syria, the role of robots is becoming increasingly vital. Deploying robots in these disaster zones could revolutionize search and rescue efforts and save lives. Additionally, robotics can significantly enhance safety and efficiency in industries like construction and in environments such as warehouses. My research focuses on developing adaptable, multi-tasking robots capable of handling uncertainties, aiming to create a safer and more efficient future through innovative solutions in reinforcement learning and robotics.
 
 ## Featured Content
