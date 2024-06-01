@@ -7,7 +7,7 @@ I'm Karam, a PhD candidate at the Karlsruhe Institute of Technology in Germany. 
 
 ## Featured Content
 - [Seminar Overview](/posts/2024-06-01-seminar)
-- [Group Work Overview](/posts/2024-06-01-seminar)
+- [Group Work Overview](/posts/2024-06-01-praktikum)
 - [About Me](/about)
 
 ## Contact

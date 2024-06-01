@@ -35,8 +35,8 @@ titles_from_headings:
   collections: false
 
 header_pages:
-  - about.md
   - posts/2024-06-01-seminar.md
+  - about.md
 
 
 highlighter: rouge
