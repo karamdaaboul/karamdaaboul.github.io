@@ -4,8 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About
-
 ## Experience
 
 1. **Research Scientist,** Karlsruhe Institute of Technology (KIT), Oct 2018 – Present
