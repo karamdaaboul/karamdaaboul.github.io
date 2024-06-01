@@ -60,3 +60,23 @@
 
 .codecell table { width: auto; }
 
+
+.hero-image {
+        position: relative;
+        background-image: url('/assets/IMG_1.JPEG');  /* Path to your image */
+        height: 500px;  /* Adjust height as needed */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+.welcome-text {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;  /* Ensures text is visible */
+        text-align: center;
+        width: 100%;  /* Full width of the hero-image section */
+    }
+    
