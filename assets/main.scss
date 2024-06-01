@@ -61,41 +61,49 @@
 .codecell table { width: auto; }
 
 
-.hero-image {
-        position: relative;
-        background-image: url('/assets/IMG_1.JPEG');  /* Path to your image */
-        height: 500px;  /* Adjust height as needed */
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-    
-.welcome-text {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        color: white;  /* Ensures text is visible */
-        text-align: center;
-        width: 100%;  /* Full width of the hero-image section */
-    }
-    
-
 .intro-section {
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: center; /* Ensures content is centered horizontally */
         padding: 20px;
-        }
-
+    }
+    
+.profile-text {
+        flex: 1; /* Takes up remaining space, ensuring proper alignment */
+        padding-right: 20px; /* Adds some space between text and image */
+    }
+    
 .profile-pic img {
         width: 200px;
         height: 200px;
         border-radius: 50%;
-        margin-right: 20px;  /* Space between the image and text */
-        }
+        order: 1; /* Pushes the image to the right */
+    }
+    
+    /* General typography and color enhancements for a cleaner look */
+body {
+        font-family: 'Arial', sans-serif; /* Modern, readable font */
+        color: #333; /* Darker text for better readability */
+        line-height: 1.6; /* Improved line spacing for better reading flow */
+        background-color: #f9f9f9; /* A light background color for less strain on the eyes */
+    }
+    
+h1, h2, h3 {
+        color: #0056b3; /* Adds a consistent color scheme for headings */
+    }
+    
+a {
+        color: #007bff;
+        text-decoration: none; /* Removes underline from links for a cleaner look */
+    }
+    
+a:hover {
+        text-decoration: underline; /* Adds underline on hover for better interaction visibility */
+    }
+    
+    /* Adding some space between sections */
+.section {
+        margin-bottom: 40px;
+    }
+    
 
-.profile-text {
-        max-width: 60%;  /* Adjust based on preference */
-        }
-        
