@@ -111,14 +111,6 @@ a:hover {
         border-radius: 50%; /* Circular image */
     }
 
-.site-nav ul {
-    display: flex;
-    justify-content: center;  // Adjust this to space-between for better spacing if needed
-    list-style: none;
-    padding: 0;
-    margin: 0; // Ensure there’s no additional margin pushing the content
-    flex-wrap: nowrap; // Prevents wrapping into a new line
-}
 
 
 .site-nav li {
