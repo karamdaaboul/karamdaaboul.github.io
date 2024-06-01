@@ -60,27 +60,6 @@
 
 .codecell table { width: auto; }
 
-
-.intro-section {
-        display: flex;
-        align-items: center;
-        justify-content: center; /* Ensures content is centered horizontally */
-        padding: 20px;
-    }
-    
-.profile-text {
-        flex: 1; /* Takes up remaining space, ensuring proper alignment */
-        padding-right: 20px; /* Adds some space between text and image */
-    }
-    
-.profile-pic img {
-        float: right;  /* Makes image float to the right */
-        margin-left: 20px;  /* Adds space between the text and the image */
-        width: 175px;  /* Controls the width of the image */
-        height: 200px;  /* Controls the height of the image */
-        border-radius: 50%;  /* Keeps the circular shape */
-    }
-    
     
 /* General typography and color enhancements for a cleaner look */
 body {
@@ -109,3 +88,26 @@ a:hover {
     }
     
 
+/* Container holding the text and image */
+.intro-section {
+        display: block; /* Use block to allow for text wrapping around the image */
+        max-width: 100%; /* Set a max-width to control layout width */
+        overflow: auto; /* Ensures the float is contained within the section */
+    }
+    
+    /* Styling for the text content */
+.profile-text {
+        font-size: 16px; /* Adjust font size as needed */
+        line-height: 1.6; /* Improves readability */
+    }
+    
+    /* Image positioning and styling */
+.profile-pic img {
+        float: right; /* Floats the image to the right */
+        margin-left: 20px; /* Adds space between the text and image */
+        margin-top: 0; /* Aligns the image with the top of the section */
+        width: 175px; /* Image width */
+        height: 200px; /* Image height, can adjust as necessary */
+        border-radius: 50%; /* Circular image */
+    }
+    
