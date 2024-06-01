@@ -110,3 +110,24 @@ a:hover {
         height: 200px; /* Image height, can adjust as necessary */
         border-radius: 50%; /* Circular image */
     }
+
+.site-nav ul {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        padding: 0;
+    }
+    
+.site-nav li {
+        padding: 0 15px;
+    }
+    
+.site-nav a {
+        text-decoration: none;
+        color: #333;
+    }
+    
+.site-nav a:hover {
+        color: #0056b3;
+    }
+    
