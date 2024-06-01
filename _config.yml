@@ -28,10 +28,16 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
+# Removed titles_from_headings configuration to manually manage page titles
 titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
+  enabled: false
+  strip_title: false
+  collections: false
+
+header_pages:
+  - about.md
+  - posts/2024-06-01-seminar.md
+
 
 highlighter: rouge
 markdown: kramdown
