@@ -74,13 +74,15 @@
     }
     
 .profile-pic img {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        order: 1; /* Pushes the image to the right */
+        float: right;  /* Makes image float to the right */
+        margin-left: 20px;  /* Adds space between the text and the image */
+        width: 175px;  /* Controls the width of the image */
+        height: 200px;  /* Controls the height of the image */
+        border-radius: 50%;  /* Keeps the circular shape */
     }
     
-    /* General typography and color enhancements for a cleaner look */
+    
+/* General typography and color enhancements for a cleaner look */
 body {
         font-family: 'Arial', sans-serif; /* Modern, readable font */
         color: #333; /* Darker text for better readability */
