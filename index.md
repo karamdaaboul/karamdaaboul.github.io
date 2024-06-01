@@ -1,19 +1,14 @@
 ---
 layout: home
-title: Committed Towards a Better Future
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: true
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Welcome to My Website"
 ---
 
-{% for post in site.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-  <a href="{{ post.url }}">Read more...</a>
-{% endfor %}
+## About Me
+I am committed to creating a better future through innovative solutions in machine learning and robotics. Here you can find insights into my research, featured projects, and more.
+
+## Featured Content
+- [Detailed Seminar Overview](/posts/2024-06-01-seminar)
+- [About My Research](/about)
+
+## Contact
+Reach out to me at [daaboul@kit.edu](mailto:daaboul@kit.edu) for collaborations and inquiries.
