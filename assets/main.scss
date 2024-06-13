@@ -111,6 +111,16 @@ a:hover {
         border-radius: 50%; /* Circular image */
     }
 
+/* Styling for rectangular research images */
+.research-img img {
+        float: right; /* Floats the image to the right */
+        margin-left: 20px; /* Adds space between the text and image */
+        margin-top: 0; /* Aligns the image with the top of the section */
+        width: 200px; /* Image width */
+        height: 150px; /* Image height set to be rectangular */
+        border-radius: 5px; /* Slight rounding of corners */
+    }
+    
 .site-nav ul {
         display: flex;
         flex-wrap: nowrap;  /* Prevents wrapping */
