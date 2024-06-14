@@ -8,7 +8,7 @@ excerpt: "A brief summary of the softwares focusing on key discussions and findi
 
 ## Franka KIT
 
-![Franka KIT Overview](../assets/franka/franka_kit.svg)
+<img src="../assets/franka/franka_kit.svg" alt="Franka KIT Overview" style="width: 400px; height: auto;">
 
 ### Franka KIT Features
 
@@ -30,12 +30,11 @@ excerpt: "A brief summary of the softwares focusing on key discussions and findi
 **Autonomous Learning Library**
 - Utilizes a comprehensive autonomous learning library designed for developing, testing, and evaluating new algorithms directly on the robot.
 
-### Description of the Franka KIT
-Provide a detailed description of the Franka KIT here, highlighting its unique features and capabilities that distinguish it in the field of robotics.
 
-## Other Sections
-### Franka Tools
-![](../assets/franka/viola_demo_1.gif)
-![](../assets/franka/rlbench_demo_1.gif)
+### Demonstrations from Datasets
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="../assets/franka/viola_demo_1.gif" alt="Viola Dataset Demo" style="width: 49%; margin-right: 2%;">
+  <img src="../assets/franka/rlbench_demo_1.gif" alt="RL Bench Demo" style="width: 49%;">
+</div>
 
 

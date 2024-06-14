@@ -14,7 +14,7 @@ title: "Welcome to My Website"
 
 
 ## Featured Content
-- [Research Work Overview](/posts/2024-06-01-research) (Under Progress)
+- [Research Overview](/posts/2024-06-01-research) (Under Progress)
 - [Softwares Overview](/posts/2024-06-01-softwares) (Under Progress)
 - [Seminar Overview](/posts/2024-06-01-seminar) (Under Progress)
 - [Group Work Overview](/posts/2024-06-01-praktikum) (Under Progress)
