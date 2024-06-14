@@ -26,6 +26,10 @@ This page introduces our groundbreaking research in Constrained Meta Agnostic Re
 
 - **Link to Full Document**: [Read the full research paper](https://github.com/karamdaaboul/karamdaaboul.github.io/blob/master/assets/praktikum_pdf/Constrained_Meta_Agnostic_Reinforcement_Learning.pdf){:target="_blank"}
 
+## Figures and Visuals
+![Robotic Adaptation](../assets/cmaml.png)
+*Figure 1: Adaptive behaviors of robots using MAC during different task scenarios.*
+
 ## Further Exploration
 For those interested in further details about the technical aspects of C-MAML or its applications in different fields, consider exploring the following resources:
 - [Meta-Learning in Robotics](https://example.com/meta_learning_robots)
