@@ -28,7 +28,7 @@ This page introduces our groundbreaking research in Constrained Meta Agnostic Re
 
 ## Figures and Visuals
 ![Robotic Adaptation](../assets/cmaml.png)
-*Figure 1: Adaptive behaviors of robots using MAC during different task scenarios.*
+*Figure 1: Visual representation of the Constrained Model Agnostic Meta Learning (C-MAML) framework. This schematic showcases the iterative optimization process where the meta-policy is trained across different tasks. Task-specific policies (\( \pi_1, \pi_2, \pi_3 \)) are adjusted within their respective constraint surfaces \( C_1, C_2, C_3 \), each with a dedicated safety boundary \( d_1, d_2, d_3 \).*
 
 ## Further Exploration
 For those interested in further details about the technical aspects of C-MAML or its applications in different fields, consider exploring the following resources:
