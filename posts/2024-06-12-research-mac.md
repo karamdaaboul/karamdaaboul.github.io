@@ -26,7 +26,7 @@ This page delves into our research on "Robotic Control Using Model-Based Meta Ad
 - **Link to Full Document**: [Read the full research paper](https://arxiv.org/abs/2210.03539f){:target="_blank"}
 
 ## Figures and Visuals
-![Robotic Adaptation](https://example.com/images/robot_adaptation.png)
+![Robotic Adaptation](../assets//mac.png)
 *Figure 1: Adaptive behaviors of robots using MAC during different task scenarios.*
 
 ## Source Code
