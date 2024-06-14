@@ -97,8 +97,25 @@ a:hover {
     
     /* Styling for the text content */
 .profile-text {
-        font-size: 16px; /* Adjust font size as needed */
-        line-height: 1.6; /* Improves readability */
+        font-size: 16px;
+        line-height: 1.6;
+    
+        &--research {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+    
+            .text-content {
+                flex: 1;
+            }
+    
+            .research-img img {
+                width: 100px;
+                height: auto;
+                margin-left: 20px;
+            }
+        }
     }
     
     /* Image positioning and styling */
@@ -111,16 +128,7 @@ a:hover {
         border-radius: 50%; /* Circular image */
     }
 
-/* Styling for rectangular research images */
-.research-img img {
-        float: right; /* Floats the image to the right */
-        margin-left: 20px; /* Adds space between the text and image */
-        margin-top: 0; /* Aligns the image with the top of the section */
-        width: 200px; /* Image width */
-        height: 150px; /* Image height set to be rectangular */
-        border-radius: 5px; /* Slight rounding of corners */
-    }
-    
+
 .site-nav ul {
         display: flex;
         flex-wrap: nowrap;  /* Prevents wrapping */
