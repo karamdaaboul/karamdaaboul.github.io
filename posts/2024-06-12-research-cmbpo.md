@@ -29,7 +29,7 @@ This page presents our research on "Safe Continuous Control with Constrained Mod
 Detailed explanation of the constrained model-based policy optimization technique, including its theoretical foundations and practical implementations.
 
 ## Results and Discussion
-Discuss the test scenarios, simulations performed, and the comparative analysis with existing methodologies. Highlight the advancements made through this research.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4MM9TxAYUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Source Code
 Access the implementation details and source code for further experimentation:
@@ -40,5 +40,5 @@ For those interested in exploring more about model-based reinforcement learning 
 - [Model-Based Reinforcement Learning](https://example.com/model-based-rl)
 - [Safe Exploration in Robotics](https://example.com/safe-robotics)
 
-## Contact
-For collaboration or further inquiries, please contact us at [contact@researchlab.com](mailto:contact@researchlab.com).
+
+
