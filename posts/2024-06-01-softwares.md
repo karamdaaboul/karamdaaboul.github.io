@@ -38,3 +38,10 @@ excerpt: "A brief summary of the softwares focusing on key discussions and findi
 </div>
 
 
+### Additional Camera Demonstrations
+<div style="display: flex; justify-content: space-between;">
+  <img src="../assets/franka/rlbench_demo_front_0.gif" alt="RLBench Front Camera" style="width: 24%; margin-right: 1%;">
+  <img src="../assets/franka/rlbench_demo_wrist_0.gif" alt="RLBench Wrist Camera" style="width: 24%; margin-right: 1%;">
+  <img src="../assets/franka/real_env_demo_front_0.gif" alt="Real World Front Camera" style="width: 24%; margin-right: 1%;">
+  <img src="../assets/franka/real_env_demo_wrist_0.gif" alt="Real World Wrist Camera" style="width: 24%;">
+</div>
