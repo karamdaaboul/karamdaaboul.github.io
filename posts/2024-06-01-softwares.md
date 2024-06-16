@@ -40,7 +40,7 @@ In the first part of our demonstrations, we used an episode from the [Viola](htt
 
 
 ### Demonstrations from Simulation
-In the second part of our demonstrations, we generated a demo from RLBench which normally uses joint states as the action space. We converted these actions to relative inverse kinematic actions and ran them on the robot. As you can see, the observation space of the robot consists of two images: front and wrist images, providing comprehensive visual feedback on the robot's interactions.
+In the second part of our demonstrations, we generated a demo from [RLBench](https://sites.google.com/view/rlbench) which normally uses joint states as the action space. We converted these actions to relative inverse kinematic actions and ran them on the robot. As you can see, the observation space of the robot consists of two images: front and wrist images, providing comprehensive visual feedback on the robot's interactions.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="../assets/franka/rlbench_demo_front_0.gif" alt="RLBench Front Camera" style="width: 24%; margin-right: 1%;">
