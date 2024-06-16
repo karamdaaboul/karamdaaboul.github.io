@@ -32,14 +32,16 @@ excerpt: "A brief summary of the softwares focusing on key discussions and findi
 
 
 ### Demonstrations from Datasets
+In the first part of our demonstrations, we used an episode from the [Viola](https://www.tensorflow.org/datasets/catalog/viola) dataset and ran it on the real robot. The visual comparisons demonstrate the close alignment between the collected demos and real-world behaviors.
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="../assets/franka/offline_images.gif" alt="Viola Dataset Demo" style="width: 33%; margin-right: 2%;">
-  <img src="../assets/franka/rlbench_demo_1.gif" alt="RL Bench Demo" style="width: 33%;  margin-right: 2%;">
-  <img src="../assets/franka/real_demo_1.gif" alt="Real Demo" style="width: 33%;">
+  <img src="../assets/franka/offline_images.gif" alt="Viola Dataset Demo" style="width: 49%; margin-right: 2%;">
+  <img src="../assets/franka/real_demo_1.gif" alt="Real Demo" style="width: 49%;">
 </div>
 
 
-### Additional Camera Demonstrations
+### Demonstrations from Simulation
+In the second part of our demonstrations, we generated a demo from RLBench which normally uses joint states as the action space. We converted these actions to relative inverse kinematic actions and ran them on the robot. As you can see, the observation space of the robot consists of two images: front and wrist images, providing comprehensive visual feedback on the robot's interactions.
+
 <div style="display: flex; justify-content: space-between;">
   <img src="../assets/franka/rlbench_demo_front_0.gif" alt="RLBench Front Camera" style="width: 24%; margin-right: 1%;">
   <img src="../assets/franka/rlbench_demo_wrist_0.gif" alt="RLBench Wrist Camera" style="width: 24%; margin-right: 1%;">
