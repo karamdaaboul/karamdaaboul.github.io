@@ -33,7 +33,7 @@ excerpt: "A brief summary of the softwares focusing on key discussions and findi
 
 ### Demonstrations from Datasets
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="../assets/franka/viola_demo_1.gif" alt="Viola Dataset Demo" style="width: 33%; margin-right: 2%;">
+  <img src="../assets/franka/offline_images.gif" alt="Viola Dataset Demo" style="width: 33%; margin-right: 2%;">
   <img src="../assets/franka/rlbench_demo_1.gif" alt="RL Bench Demo" style="width: 33%;  margin-right: 2%;">
   <img src="../assets/franka/real_demo_1.gif" alt="Real Demo" style="width: 33%;">
 </div>
