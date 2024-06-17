@@ -29,9 +29,6 @@ Here are the enhanced key findings from the paper on "Safe Continuous Control wi
 
 - **Link to Full Document**: [Read the full research paper](https://arxiv.org/abs/2104.06922){:target="_blank"}
 
-## Methodology
-Detailed explanation of the constrained model-based policy optimization technique, including its theoretical foundations and practical implementations.
-
 ## Figures and Visuals
 ![Robotic Adaptation](../assets/cmdp2.png)
 *Figure 1: The left panel shows a Constrained Markov Decision Process (CMDP) with safety boundaries. The middle panel integrates this with a Model-Based Reinforcement Learning (RL) system, highlighting the use of both real and simulated experiences. The right panel demonstrates policy execution within safety and trust regions to ensure robust and safe operations.*
