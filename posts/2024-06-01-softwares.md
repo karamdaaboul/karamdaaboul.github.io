@@ -11,12 +11,11 @@ excerpt: "A brief summary of the softwares focusing on key discussions and findi
 **GymPanda RL Studio** is a straightforward software framework tailored for managing the [Franka Panda robot](https://franka.de/de/) using simple reinforcement learning techniques. This software allows users to explore different action spaces, from relative to absolute gripper positions, and supports various observation spaces, including pixel-based or state-based measurements. The designed environments are compatible with reinforcement learning frameworks like [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3). Additionally, the software is designed to be used without prior knowledge of [ROS](https://www.ros.org/), simplifying the learning curve for new users.
 
 
-
-<!-- <img src="../assets/franka/franka_kit.svg" alt="Franka KIT Overview" style="width: 400px; height: auto;"> -->
-<video width="700" controls autoplay muted>
+<img src="../assets/franka/franka_gym.svg" alt="Franka KIT Overview" style="width: 600px; height: auto;"> 
+<!--<video width="700" controls autoplay muted>
   <source src="../assets/franka/franka_gymnasium.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video>-->
 
 ### GymPanda RL Studio Features
 
