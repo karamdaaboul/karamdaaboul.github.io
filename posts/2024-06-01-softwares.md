@@ -12,7 +12,11 @@ excerpt: "A brief summary of the softwares focusing on key discussions and findi
 
 
 
-<img src="../assets/franka/franka_kit.svg" alt="Franka KIT Overview" style="width: 400px; height: auto;">
+<!-- <img src="../assets/franka/franka_kit.svg" alt="Franka KIT Overview" style="width: 400px; height: auto;"> -->
+<video width="700" controls autoplay muted>
+  <source src="../assets/franka/franka_gymnasium.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### GymPanda RL Studio Features
 
