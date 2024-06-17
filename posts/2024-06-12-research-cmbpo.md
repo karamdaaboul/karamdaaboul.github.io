@@ -41,7 +41,7 @@ Detailed explanation of the constrained model-based policy optimization techniqu
 
 ## Source Code
 Access the implementation details and source code for further experimentation:
-- **GitHub Repository**: [Constrained MBPO Implementation](https://github.com/karamdaaboul/karamdaaboul.github.io)
+- **GitHub Repository**: [Constrained MBPO Implementation](https://github.com/anyboby/Constrained-Model-Based-Policy-Optimization)
 
 ## Further Reading
 For those interested in exploring more about model-based reinforcement learning and safe exploration techniques:
