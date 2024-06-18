@@ -6,7 +6,12 @@ categories: Softwares
 excerpt: "A brief summary of the softwares focusing on key discussions and findings..."
 ---
 
+## Softwares
+- [GymPanda RL Studio](#gympanda-rl-studio)
+- [Safety Isaac Orbit/Lab](#safety-isaac)
+
 ## GymPanda RL Studio
+<div id="gympanda-rl-studio"></div>
 
 **GymPanda RL Studio** is a straightforward software framework tailored for managing the [Franka Panda robot](https://franka.de/de/) using simple reinforcement learning techniques. This software allows users to explore different action spaces, from relative to absolute gripper positions, and supports various observation spaces, including pixel-based or state-based measurements. The designed environments are compatible with reinforcement learning frameworks like [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3). Additionally, the software is designed to be used without prior knowledge of [ROS](https://www.ros.org/), simplifying the learning curve for new users.
 
@@ -52,3 +57,10 @@ In the second part of our demonstrations, we generated a demo from [RLBench](htt
 ### Using Reinforcement Learning
 We trained the agent using a simplified version of the environment through reinforcement learning, where the action space was limited to the position of the gripper. The task was a simple goal-reaching task. Only the front camera's observation was utilized for this training.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVICOvh-xxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Safety Isaac Orbit/Lab
+<div id="safety-isaac"></div>
+<img src="../assets/safety_orbit/safety_isaac.svg" alt="Safety Isaac Overview" style="width: 400px; height: auto;"> 
+
+<img src="../assets/safety_orbit/safety_orbit.png" alt="example" style="width: 400px; height: auto;"> 

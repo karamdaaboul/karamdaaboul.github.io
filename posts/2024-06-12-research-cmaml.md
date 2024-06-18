@@ -10,8 +10,7 @@ excerpt: "Discover our innovative approach to integrating constraints in meta-re
 This page introduces our groundbreaking research in Constrained Meta Agnostic Reinforcement Learning (C-MAML), a novel framework aimed at enhancing the adaptability and safety of meta-learning algorithms in robotic tasks and other dynamic environments.
 
 ## Research Highlights
-- **Summary**: 
-  Our research addresses the challenge of rapid adaptability in meta-reinforcement learning (Meta-RL) while adhering to crucial safety constraints. The newly developed C-MAML framework incorporates task-specific constraints directly into its learning algorithms during both the meta-training and adaptation phases. This approach not only speeds up the adaptation process to new tasks but also ensures that these adaptations comply with predefined safety standards.
+Our research addresses the challenge of rapid adaptability in meta-reinforcement learning (Meta-RL) while adhering to crucial safety constraints. The newly developed C-MAML framework incorporates task-specific constraints directly into its learning algorithms during both the meta-training and adaptation phases. This approach not only speeds up the adaptation process to new tasks but also ensures that these adaptations comply with predefined safety standards.
 
 - **Key Findings**:
   1. **Improved Safety**: C-MAML introduces a constraint-based method to the traditional Model Agnostic Meta Learning (MAML) framework, enhancing the safety of the learned meta-policies.
