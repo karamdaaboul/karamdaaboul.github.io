@@ -20,7 +20,7 @@ Our research addresses the challenge of rapid adaptability in meta-reinforcement
 - **Impact**:
   The integration of constraints into meta-learning models through C-MAML represents a significant step forward in the fields of robotics and artificial intelligence. It addresses critical issues in current learning methodologies by providing a safer, more adaptable learning process that is crucial for deployment in unpredictable environments.
 
-- **Link to Full Document**: [Read the full research paper](https://github.com/karamdaaboul/karamdaaboul.github.io/blob/master/assets/praktikum_pdf/Constrained_Meta_Agnostic_Reinforcement_Learning.pdf){:target="_blank"}
+- **Link to Full Document**: [Read the full research paper](https://arxiv.org/abs/2406.14047){:target="_blank"}
 
 ## Figures and Visuals
 ![Robotic Adaptation](../assets/cmaml.png)
