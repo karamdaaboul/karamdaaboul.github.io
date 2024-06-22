@@ -59,8 +59,24 @@ We trained the agent using a simplified version of the environment through reinf
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVICOvh-xxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 ## Safety Isaac Orbit/Lab
 <div id="safety-isaac"></div>
-<img src="../assets/safety_orbit/safety_isaac.svg" alt="Safety Isaac Overview" style="width: 400px; height: auto;"> 
 
-<img src="../assets/safety_orbit/safety_orbit.png" alt="example" style="width: 400px; height: auto;"> 
+**Safety Isaac Orbit/Lab** is an innovative software framework developed to enhance the safe navigation and task performance of the [Unitree Go 2 robot](https://www.unitree.com/products/go2/edu) within constrained environments. This framework integrates safety constraints directly into the learning algorithms, significantly reducing the risk of mechanical strain and unsafe interactions. 
+<img src="../assets/safety_orbit/safety_isaac.svg" alt="Safety Isaac Overview" style="width: 600px; height: auto;"> 
+
+### Safety Isaac Orbit/Lab Features
+
+**Robust Simulation Tools**
+- Leverages Isaac Sim and Isaac Orbit/Lab to provide a realistic training environment that simulates various physical and sensor-based inaccuracies, enhancing the applicability of the trained models to real-world conditions.
+
+**Dynamic Cost Management**
+- Implements a cost manager that dynamically handles task-specific constraints, such as safety region violations, torque limitations to prevent mechanical damage, and penalties for premature termination of robot operations.
+
+<img src="../assets/safety_orbit/safety_orbit.png" alt="example" style="width: 600px; height: auto;"> 
+
+
+**Integration with Safe RL Frameworks**
+- Initially used the Omnisafe package, recognized for its robust safety features, and later transitioned to the RSL_RL framework enhanced with a Lagrangian method to expedite the training process.
+
