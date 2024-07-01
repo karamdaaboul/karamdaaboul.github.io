@@ -88,7 +88,7 @@ In our training simulations, we focus on minimizing joint torque to prevent mech
 
 
 ###  Using PPOLag (first order method)
-PPOLag, or Proximal Policy Optimization with Lagrangian methods, is an advanced reinforcement learning algorithm designed to manage and optimize the balance between policy improvement and constraint satisfaction dynamically. This approach involves adjusting a penalty coefficient (lambda) in response to the degree of constraint violation observed during training. 
+[PPOLag](https://arxiv.org/pdf/1512.01629), or Proximal Policy Optimization with Lagrangian methods, is an advanced reinforcement learning algorithm designed to manage and optimize the balance between policy improvement and constraint satisfaction dynamically. This approach involves adjusting a penalty coefficient (lambda) in response to the degree of constraint violation observed during training. 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
         <div style="flex: 1; min-width: 290px; max-width: 49%; margin-right: 1%;">
@@ -105,4 +105,16 @@ PPOLag, or Proximal Policy Optimization with Lagrangian methods, is an advanced 
 
 
 ###  Using P3O (first order method)
-P3O, or Penalized Proximal Policy Optimization, builds on the traditional PPO framework by incorporating penalties directly related to the violation of specific constraints during training. This method is designed to improve policy compliance with safety and operational limits, making it particularly suitable for environments where adherence to constraints is as critical as performance optimization.
+[P3O](https://arxiv.org/pdf/1910.09615), or Penalized Proximal Policy Optimization  builds on the traditional PPO framework by incorporating penalties directly related to the violation of specific constraints during training. This method is designed to improve policy compliance with safety and operational limits, making it particularly suitable for environments where adherence to constraints is as critical as performance optimization.
+<div style="display: flex; justify-content: space-around; align-items: center;">
+        <div style="flex: 1; min-width: 290px; max-width: 49%; margin-right: 1%;">
+        <h3>P3O with kappa=1</h3>
+        <!-- Embed the video for Lambda = 0.1 here -->
+        <iframe style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="../assets/safety_orbit/vidoe_p30_1.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div style="flex: 1; min-width: 290px; max-width: 49%;">
+        <h3>P3O with kappa=0.1</h3>
+        <!-- Embed the video for Lambda = 0.05 here -->
+        <iframe style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="../assets/safety_orbit/vidoe_p30_01.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
