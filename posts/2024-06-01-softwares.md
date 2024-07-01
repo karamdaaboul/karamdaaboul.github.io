@@ -80,3 +80,25 @@ We trained the agent using a simplified version of the environment through reinf
 **Integration with Safe RL Frameworks**
 - Initially used the Omnisafe package, recognized for its robust safety features, and later transitioned to the RSL_RL framework enhanced with a Lagrangian method to expedite the training process.
 
+
+## Results
+
+### Objective 1: Joint Torques
+In our training simulations, we focus on minimizing joint torque to prevent mechanical damage and extend the lifespan of the robot. 
+
+
+###  Using PPOLag (first order method)
+PPOLag, or Proximal Policy Optimization with Lagrangian methods, is an advanced reinforcement learning algorithm designed to manage and optimize the balance between policy improvement and constraint satisfaction dynamically. This approach involves adjusting a penalty coefficient (lambda) in response to the degree of constraint violation observed during training. 
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <div style="margin-right: 20px;">
+        <h3>PPO</h3>
+        <!-- Embed the video for Lambda = 0.1 here -->
+        <iframe width="560" height="315" src="../assets/safety_orbit/vidoe_unconstrained.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div>
+        <h3>PPOLag with d=0.05</h3>
+        <!-- Embed the video for Lambda = 0.05 here -->
+        <iframe width="560" height="315" src="../assets/safety_orbit/vidoe_ppolag_05.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
