@@ -91,12 +91,12 @@ In our training simulations, we focus on minimizing joint torque to prevent mech
 PPOLag, or Proximal Policy Optimization with Lagrangian methods, is an advanced reinforcement learning algorithm designed to manage and optimize the balance between policy improvement and constraint satisfaction dynamically. This approach involves adjusting a penalty coefficient (lambda) in response to the degree of constraint violation observed during training. 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="margin-right: 20px; width: 48%;">
+        <div style="flex: 1; min-width: 290px; max-width: 49%; margin-right: 1%;">
         <h3>PPO</h3>
         <!-- Embed the video for Lambda = 0.1 here -->
         <iframe width="560" height="315" src="../assets/safety_orbit/vidoe_unconstrained.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <div style="width: 48%;">
+    <div style="flex: 1; min-width: 290px; max-width: 49%;">
         <h3>PPOLag with threshold=0.05</h3>
         <!-- Embed the video for Lambda = 0.05 here -->
         <iframe width="560" height="315" src="../assets/safety_orbit/vidoe_ppolag_05.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
