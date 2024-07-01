@@ -120,6 +120,6 @@ In our training simulations, we focus on minimizing joint torque to prevent mech
     <div style="flex: 1; min-width: 290px; max-width: 32%;">
         <h3>P3O with kappa=1</h3>
         <!-- Embed the video for P3O with kappa=0.01 -->
-        <iframe style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="../assets/safety_orbit/video_p30_1.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="../assets/safety_orbit/vidoe_p30_1.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
