@@ -103,6 +103,7 @@ In our training simulations, we focus on minimizing joint torque to prevent mech
     </div>
 </div>
 
+Here is a [Wandb report](https://api.wandb.ai/links/karamdaaboul/yisr5h7o) with some graphs to illustrate the results.
 
 ###  Using P3O (first order method)
 [P3O](https://arxiv.org/pdf/1910.09615), or Penalized Proximal Policy Optimization  builds on the traditional PPO framework by incorporating penalties directly related to the violation of specific constraints during training. This method is designed to improve policy compliance with safety and operational limits, making it particularly suitable for environments where adherence to constraints is as critical as performance optimization.
@@ -123,3 +124,6 @@ In our training simulations, we focus on minimizing joint torque to prevent mech
         <iframe style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="../assets/safety_orbit/vidoe_p30_1.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
+
+
+###  Using IPO (first order method)
