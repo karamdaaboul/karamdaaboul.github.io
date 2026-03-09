@@ -6,9 +6,11 @@ permalink: /about/
 
 ## Experience
 
-1. **Research Scientist,** Karlsruhe Institute of Technology (KIT), Oct 2018 – Present
+1. **Research Scientist,** Forschungszentrum Informatik (FZI), Karlsruhe, Germany, Oct 2024 – Present
+   - Conducting research in robotics and AI as part of the FZI research team.
+2. **Research Scientist,** Karlsruhe Institute of Technology (KIT), Oct 2018 – Sep 2024
    - Engaged in advanced research on machine learning and reinforcement learning techniques to innovate in the field of AI.
-2. **Research Assistant (Internship),** Forschungszentrum Informatik (FZI), Karlsruhe, Germany, Sep 2017 – Oct 2018
+3. **Research Assistant (Internship),** Forschungszentrum Informatik (FZI), Karlsruhe, Germany, Sep 2017 – Oct 2018
    - Focused on developing tracking solutions to enhance vehicle navigation, improving safety and efficiency in autonomous driving systems.
 
 ## Academic Roles
@@ -25,7 +27,7 @@ permalink: /about/
 
 ## Education
 
-1. **PhD in Computer Science,** Karlsruhe Institute of Technology (KIT), Oct 2018 – Present
+1. **PhD in Computer Science,** Karlsruhe Institute of Technology (KIT), Oct 2018 – 2026
    - Research focus on developing safe and adaptable reinforcement learning solutions.
 2. **Master of Science in Mechatronics,** University of Kassel, Germany, Oct 2014 – Apr 2017
    - Specialized in Control Theory.
