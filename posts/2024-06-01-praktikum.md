@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Group Work Overview"
+title: "Projects"
 date: 2024-06-01
 categories: Group Work
 excerpt: "A brief summary of the group work focusing on key discussions and findings..."
