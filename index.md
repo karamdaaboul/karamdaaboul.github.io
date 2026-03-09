@@ -12,7 +12,7 @@ title: ""
     <span class="profile-role">Postdoctoral Researcher · FZI Forschungszentrum Informatik, Karlsruhe</span>
     <p>I am a postdoctoral researcher at FZI Forschungszentrum Informatik in Karlsruhe. Together with Prof. Gerhard Neumann, we are building a new research group at FZI focused on reinforcement learning, robot learning, and intelligent control for real-world robotic systems.</p>
     <p>My research centers on one core question: how can we make robots learn safely, efficiently, and robustly in the real world? To address this, I work on safe reinforcement learning, model-based learning, sim-to-real transfer, and adaptive control methods for complex robotic platforms.</p>
-    <p>The long-term goal of my work is to enable robots to operate reliably in dynamic, uncertain, and safety-critical environments — combining data-driven learning with structure, prior knowledge, and control-theoretic principles so that robotic systems can adapt while remaining trustworthy and safe.</p>
+    <p>The long-term goal of my work is to enable robots to operate reliably in dynamic, uncertain, and safety-critical environments by combining data-driven learning with structure, prior knowledge, and control-theoretic principles so that robotic systems can adapt while remaining trustworthy and safe.</p>
   </div>
 </div>
 

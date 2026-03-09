@@ -114,15 +114,23 @@ a {
   }
 }
 
+.site-home {
+  display: flex;
+  align-items: center;
+  color: $color-muted;
+  transition: color 0.18s;
+  &:hover { color: $color-primary; }
+}
+
 .site-nav {
   .nav-trigger { display: none; }
   .menu-icon   { display: none; }
 
   .page-link {
-    font-size: 0.875rem;
+    font-size: 0.8rem;
     font-weight: 500;
     color: $color-muted;
-    margin-left: 1.5rem;
+    margin-left: 0.9rem;
     padding: 0.35rem 0;
     border-bottom: 2px solid transparent;
     transition: color 0.18s, border-color 0.18s;
